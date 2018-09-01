@@ -1,4 +1,4 @@
-# Spuul-rx-demo
+#rx-demo
 Demo using FRP concepts and unit testing. Written in Swift 4
 
 **Architecture:** MVVM Every UIViewController has its own ViewModel. Similarly, every cell will have its own ViewModelCell. ViewModel is defined in terms of inputs and outputs.
