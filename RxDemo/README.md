@@ -1,2 +1,3 @@
 # Spuul-rx-demo
-Demo using FRP concepts and unit testing. Written in Swift 4
+Demo using FRP concepts RxSwift with MVVM architecture.
+
