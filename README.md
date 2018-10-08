@@ -1,11 +1,14 @@
 # rx-demo:
-Demo using FRP concepts and unit testing. Written in Swift 4
+Functinal Reactive Concepts using RxSwift. Written in Swift 4
 
-**Architecture:** MVVM Every UIViewController has its own ViewModel. Similarly, every cell will have its own ViewModelCell. ViewModel is defined in terms of inputs and outputs.
+**Architecture:** 
+Model–view–viewmodel (MVVM). Every UIViewController has its own ViewModel. Similarly, every cell will have its own ViewModelCell. ViewModel is defined in terms of inputs and outputs.
 
-**Inputs**: Published Subject
+**Inputs**:
+Published Subject
 
-**Outputs**: Observables
+**Outputs**:
+Observables
 
 **Dependencies:**
     pod 'RxSwift',    '~> 4.0'
